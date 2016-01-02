@@ -1,0 +1,36 @@
+#Sonic Pi 
+#A Sound Synthesiser
+#for Live Coding
+#First Bars 
+play 69, release: 2.0
+play 65, release: 2.0
+play 60, release: 2.0
+sleep 2.0
+play 70, release: 2.0
+play 65, release: 2.0
+play 62, release: 2.0
+sleep 1.0
+play 72, release: 2.0
+play 67, release: 2.0
+play 64, release: 2.0
+sleep 1.0
+play 69, release: 2.0
+play 65, release: 2.0
+play 60, release: 2.0
+sleep 2.0
+play 69, release: 2.0
+play 65, release: 2.0
+play 60, release: 2.0
+sleep 1.0
+play 70, release: 2.0
+play 65, release: 2.0
+play 62, release: 2.0
+sleep 2.0
+play 72, release: 2.0
+play 67, release: 2.0
+play 64, release: 2.0
+sleep 1.0
+play 69, release: 2.0
+play 65, release: 2.0
+play 60, release: 2.0
+sleep 2.0
